@@ -1,10 +1,9 @@
-package com.example.myapplication
+package com.example.myapplication.view.viewmodel
 
 import android.view.View
 import android.widget.Toast
 import androidx.databinding.ObservableField
 import androidx.lifecycle.ViewModel
-import java.util.*
 
 class MainViewModel : ViewModel() {
 

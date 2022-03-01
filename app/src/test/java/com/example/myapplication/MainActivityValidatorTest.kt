@@ -1,5 +1,6 @@
 package com.example.myapplication
 
+import com.example.myapplication.view.MainActivityValidator
 import com.google.common.truth.Truth.assertThat
 import org.junit.Test
 

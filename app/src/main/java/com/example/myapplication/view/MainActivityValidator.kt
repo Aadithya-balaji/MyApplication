@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.myapplication.view
 
 object MainActivityValidator {
     fun validator(username : String,password : String) : Boolean{

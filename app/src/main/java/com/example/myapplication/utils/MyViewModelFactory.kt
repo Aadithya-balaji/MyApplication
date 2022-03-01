@@ -1,7 +1,8 @@
-package com.example.myapplication
+package com.example.myapplication.utils
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
+import com.example.myapplication.view.viewmodel.MainViewModel
 
 class MyViewModelFactory : ViewModelProvider.Factory {
 

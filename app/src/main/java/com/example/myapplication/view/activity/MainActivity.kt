@@ -1,10 +1,12 @@
-package com.example.myapplication
+package com.example.myapplication.view.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.ViewModelProvider
-import androidx.lifecycle.ViewModelProviders
+import com.example.myapplication.view.viewmodel.MainViewModel
+import com.example.myapplication.utils.MyViewModelFactory
+import com.example.myapplication.R
 import com.example.myapplication.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
